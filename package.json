@@ -19,7 +19,16 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.5",
-    "yup": "0.32.9"
+    "yup": "0.32.9",
+    "@emotion/react": "11.8.2",
+    "@emotion/styled": "11.8.1",
+    "@hookform/resolvers": "2.8.8",
+    "@mui/icons-material": "5.11.0",
+    "@mui/material": "5.11.7",
+    "@mui/x-date-pickers": "5.0.17",
+    "moment": "2.29.4",
+    "react-dropzone": "12.0.5",
+    "react-hook-form": "7.29.0"
   },
   "devDependencies": {
     "@types/jest": "29.4.0",
